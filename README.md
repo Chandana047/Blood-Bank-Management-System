@@ -9,9 +9,10 @@ This project is created for two users: Donors/Receivers and Hospitals/Clinics(Do
 2. Backend: Database-MySQL.
 3. Frontend-Backend connection: PHP.
 
-## :information_source: Installation details
+## :exclamation: Requirements
 1. Xampp Software
 2. Sublime text/Visual studio code software or any software supporting php, html, css
+3. Java Jdk
 
 ## :question: How to start?
 1. Download this code as a zip file.
