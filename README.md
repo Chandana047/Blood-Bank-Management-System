@@ -5,13 +5,13 @@ This website acts like a medium/an intermediate between hospitals/clinics and do
 This project is created for two users: Donors/Receivers and Hospitals/Clinics(Doctors), where a Hospital user can add blood sample to their blood bank, request for blood, check status of their request, update their details, etc. The donor/receiver can also do the same.
  
 ## :information_source: Languages/technologies used:
-Frontend: HTML, CSS, Bootstrap, JavaScript.
-Backend: Database-MySQL.
-Frontend-Backend connection: PHP.
+1. Frontend: HTML, CSS, Bootstrap, JavaScript.
+2. Backend: Database-MySQL.
+3. Frontend-Backend connection: PHP.
 
 ## :information_source: Installation details
-Xampp Software
-Sublime text/Visual studio code software or any software supporting php, html, css
+1. Xampp Software
+2. Sublime text/Visual studio code software or any software supporting php, html, css
 
 ## :question: How to start?
 1. Download this code as a zip file.
@@ -30,9 +30,9 @@ Sublime text/Visual studio code software or any software supporting php, html, c
 4. 'sql' contains the database file that has to be imported.
 
 ## :family_man_woman_boy_boy: Team:
-Chandana G V - 
-Rithish Reddy - 
-Balaji Subash - 
-SriHarsha - 
+- Chandana G V - 
+- Rithish Reddy - https://github.com/Rithish7007
+- Balaji Subash - https://github.com/gbsubash
+- SriHarsha - https://github.com/Sriharshajasti123
 
 ## Screenshots of the website:
