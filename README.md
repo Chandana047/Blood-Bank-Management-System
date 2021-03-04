@@ -31,8 +31,8 @@ This project is created for two users: Donors/Receivers and Hospitals/Clinics(Do
 
 ## :family_man_woman_boy_boy: Team:
 - Chandana G V - 
-- Rithish Reddy - [Rithsi] https://github.com/Rithish7007
-- Balaji Subash - [Subash] https://github.com/gbsubash
-- SriHarsha - [Harsha] https://github.com/Sriharshajasti123
+- Rithish Reddy - [Rithish](https://github.com/Rithish7007)
+- Balaji Subash - [Subash](https://github.com/gbsubash)
+- SriHarsha - [Harsha](https://github.com/Sriharshajasti123)
 
 ## Screenshots of the website:
