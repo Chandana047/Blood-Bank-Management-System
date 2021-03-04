@@ -22,3 +22,8 @@ How to start?
 6. Open main.php in Sublime text/Visual studio code, on right click copy file path.
 7. Paste it on any web browser and clear everything before folder name, type "localhost".
 8. Ready to go!
+
+The file named:
+1. 'css' contains the files for the front end pages style.
+2. 'file' contains the files for the backend connections.
+3. 'image' and 'jastimage' contains images used in the front end
