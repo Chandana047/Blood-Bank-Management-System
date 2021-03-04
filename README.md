@@ -12,7 +12,7 @@ Backend: Database-MySQL.
 Frontend-Backend connection: PHP.
 
 :information_source: 
-## Installation details:
+## Installation details
 Xampp Software
 Sublime text/Visual studio code software or any software supporting php, html, css
 
