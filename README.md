@@ -36,7 +36,7 @@ This project is created for two users: Donors/Receivers and Hospitals/Clinics(Do
 - Balaji Subash - [Subash](https://github.com/gbsubash)
 - SriHarsha - [Harsha](https://github.com/Sriharshajasti123)
 
-## Have an issues or a bug? Would like to contact?
+## ✉️ Have an issues or a bug? Would like to contact?
 Report [here](https://github.com/Chandana047/Blood-Bank-Management-System/issues)
 
 
