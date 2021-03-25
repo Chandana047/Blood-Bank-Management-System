@@ -1,4 +1,4 @@
-# :drop_of_blood: Blood-Bank-Management-System
+# :drop_of_blood: Blood-Bank-Management-System ![Views](https://komarev.com/ghpvc/?username=Chandana047&color=blue)
 This website acts like a medium/an intermediate between hospitals/clinics and donors/receivers.
 
 ## Basic functionalities:
